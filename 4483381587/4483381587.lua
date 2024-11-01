@@ -3,4 +3,4 @@ THIS LUA FILE IS FOR TESTING PURPOSE.
 RUNNING THIS SCRIPT DOES NOTHING FOR YOU UNLESS YOU HAVE THE SOURCE CODE AND WANTS TO MAINTAIN THIS SCRIPT.
 
 ]]--
-print("Test Passed. You're in game, gameID: " .. placeID )
+print("Test Passed. You're in game, gameID: " .. placeID)
